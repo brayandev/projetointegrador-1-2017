@@ -1,0 +1,130 @@
+body{
+	width: 100%;
+}
+h1{
+	font-size: 28px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    text-decoration: underline;
+    color: #000;
+}
+header{
+    width: 100%;
+    background-color: #000;
+    height: 50px;
+}
+.menu{
+    width: 100%;
+    background-color: #000;
+    height: 50px;
+    float: left;
+    margin-top: 20px;
+}
+.cabecalhoLogo{
+    background-color: #fff;
+    height: 50px;
+    font-size: 36px;
+    text-align: center;
+}
+.hamburguerButton{
+    float: left;
+    margin-left: 10px;
+    position: relative;
+}
+.imgRedesSociais{
+    float: right;
+    margin: 5px 10px 0px 0px;
+}
+.titulo{
+    font-size: 33px;
+    margin-top: 0px;
+}
+aside ul li{
+    font-size: 18px;
+    font-weight: bold;
+}
+aside a{
+    font-size: 16px;
+    color: #ccc;
+}
+section{
+	height: auto;
+}
+footer{
+    height: auto;
+    background-color: #000;
+}
+footer h1{
+    font-size: 24px;
+    color: #fff;
+    margin-top: 10px;
+}
+footer p{
+    color: #fff;
+    margin-top: 10px;
+    height: 10px;
+}
+footer nav{
+    float: right;
+    margin:-103px 10px 0px 0px;
+}
+.asideEvanescence{
+    border: 1px solid #000;
+}
+.maioresShows{
+    margin-top: 20px;
+}
+.meunav{
+    margin-top: 15px;
+}
+.imgtwitter{
+    float: right;
+    margin: -55px 50px 0px 0px;
+}
+.imginstagram{
+    float: right;
+    margin: -55px 98px 0px 0px;
+}
+.imgfacebook{
+    float: right;
+    margin: -55px 150px 0px 0px;
+}
+.logonirvana{
+    margin-top: -50px;
+}
+.input{
+    width: 250px;
+    border-radius: 4px;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
+.btnEnviar{
+    width: 80px;
+    height: 30px;
+    margin-left: 560px;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+.btnLimpar{
+    width: 80px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    border-radius: 4px;
+}
+.txtSugestoes{
+    margin-top: 20px;
+    margin-left: 540px;
+}
+.tituloContatos{
+    text-align: center;
+}
+.rodapeContatos{
+    height: 141px;
+    margin-top: 55px;
+}
